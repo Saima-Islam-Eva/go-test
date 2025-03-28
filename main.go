@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello again from Saima! 🚀")
-	fmt.Println("Testing GitHub connection 💻✅")
+	x = 5 // ❌ Error: x is undeclared
+	fmt.Println(x)
 }
