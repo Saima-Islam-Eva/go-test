@@ -1,7 +1,10 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
-	fmt.Println("Hello, Go!")
+	fmt.Println("Enter the directory path:")
+	// Sample logic to read directory path and handle files
 }
